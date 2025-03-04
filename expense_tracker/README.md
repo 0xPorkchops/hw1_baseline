@@ -1,3 +1,6 @@
+# About
+This software application enables users to manage their spending through a simplistic and intuitive user interface. This is done by allowing the user to create transactions with a monetary value input (Amount) and a description input (Category) which are added to a table with a running monetary total of all transactions.
+
 # hw1- Manual Review
 
 The homework will be based on this project named "Expense Tracker",where users will be able to add/remove daily transaction. 
